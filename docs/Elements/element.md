@@ -21,4 +21,8 @@ You can use an `<element>` as text like:
 <element layoutpos="top" content="Hello world!" />
 ```
 
-### **Work-in-progress page, please add on to this!**
+### Parameters
+***Work in progress***
+
+### Notes
+***Work in progress***

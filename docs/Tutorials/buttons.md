@@ -1,5 +1,5 @@
 ---
-title: Buttons!
+title: Buttons
 ---
 
 Cool, you now know how to write basic DirectUI code and how to make simple stylesheets that change the font face and size, but what else can you do with DirectUI? 
@@ -39,7 +39,7 @@ Now that's cool and all, but extremely basic and lets be honest, no one is just 
     <element resid="main" sheet="examplesheet" layout="borderlayout()">
         <element class="text" layoutpos="top" content="Hello world!" />
         <CCPushButton class="examplebuttons" layoutpos="top" content="Hello!" />
-        <!-- The check box element is basically the same as the button element. -->
+        <!-- The check box element is basically the same as the push button element. -->
         <CCCheckBox class="examplebuttons" layoutpos="top" content="Tick me!" />
     </element>
     <stylesheets>
@@ -67,6 +67,7 @@ And just for fun, you can add a radio button to your app because why not?
         <element class="text" layoutpos="top" content="Hello world!" />
         <CCPushButton class="examplebuttons" layoutpos="top" content="Hello!" />
         <CCCheckBox class="examplebuttons" layoutpos="top" content="Tick me!" />
+        <!-- The radio button element is basically the same as the both of the elements previously shown. -->
         <CCRadioButton class="examplebuttons" layoutpos="top" content="I'm a radio button!" />
     </element>
     <stylesheets>

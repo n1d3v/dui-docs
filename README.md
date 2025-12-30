@@ -1,27 +1,12 @@
 # DirectUI Documentation
+Documenting the undocumented language made by Microsoft, built on top of [Docusaurus](https://docusaurus.io/).
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+# How do I run this locally?
+You need these 2 things to run this locally on your machine:
+- [Node.js](https://nodejs.org) for general stuff
+- [yarn](https://classic.yarnpkg.com) as a package manager
 
-## Installation
+You then want to run `yarn` in the directory of dui-docs. After the packages install, you run `yarn start` to start the development server, any change you make to the files will reflect in real-time without having to do anything else.
 
-```bash
-yarn
-```
-
-You need Node.js and yarn to compile the documentation.
-
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+# How do I build this for static sites?
+All you have to do is run `yarn build`, it will then generate the static content into the `build` directory as static content.

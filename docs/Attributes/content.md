@@ -16,3 +16,6 @@ It is primarily used to show text on an element, some examples are:
 <element content="Hello world!">
 ```
 > Element / Text label example, bare minimum of text.
+
+### Notes
+There are no notes are available for `content`.

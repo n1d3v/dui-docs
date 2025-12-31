@@ -24,7 +24,11 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Attributes',
-      items: ['Attributes/content']
+      items: [
+        'Attributes/class',
+        'Attributes/content',
+        'Attributes/id'
+      ]
     }
   ]
 };

@@ -1,5 +1,5 @@
 ---
-title: Themeables | Part 1
+title: Themeables (Part 1)
 ---
 
 So far, we have done 3 tutorials about DirectUI, learning how to make a page and render some text, learning how to make stylesheets using the `sheet` property and how to change font face and size and learning how to make 3 types of buttons.

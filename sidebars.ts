@@ -9,13 +9,17 @@ const sidebars: SidebarsConfig = {
         'Tutorials/beginning-with-dui',
         'Tutorials/stylesheets',
         'Tutorials/buttons',
-        'Tutorials/themeables-p1'
+        'Tutorials/themeables-p1',
+        'Tutorials/margin-and-padding'
       ]
     },
     {
       type: 'category',
       label: 'Elements',
-      items: ['Elements/element']
+      items: [
+        'Elements/duixml',
+        'Elements/element'
+      ]
     },
     /*{
       type: 'category',

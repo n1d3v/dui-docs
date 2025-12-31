@@ -21,11 +21,11 @@ const sidebars: SidebarsConfig = {
         'Elements/element'
       ]
     },
-    /*{
+    {
       type: 'category',
       label: 'Attributes',
-      items: ['']
-    }*/
+      items: ['Attributes/content']
+    }
   ]
 };
 

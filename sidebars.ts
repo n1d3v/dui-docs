@@ -25,6 +25,14 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Attributes',
       items: [
+        {
+          type: 'category',
+          label: 'Theming',
+          items: [
+            'Attributes/Theming/gtc',
+            'Attributes/Theming/gtf'
+          ]
+        },
         'Attributes/class',
         'Attributes/content',
         'Attributes/id'

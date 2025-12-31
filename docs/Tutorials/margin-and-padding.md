@@ -9,7 +9,7 @@ Margin and padding is necessary to make anything look good, even apart from Dire
 You might be asking, what is the difference between margin and padding?
 
 - Margin: The space outside of an element, pushes the element outwards
-- Padding: The space inside of an element, pushes in the element inwards
+- Padding: The space inside of an element, pushes the element inwards
 
 The best way to display the difference between margin and padding is this example, you can tell by the color of the background what the difference is.
 
